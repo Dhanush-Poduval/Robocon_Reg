@@ -3,7 +3,7 @@
 </h1>
 
 <h2>
-  Create a virtual enviorment 
+  Create a virtual enviorment and activate it
 </h2>
 
 <h2>
